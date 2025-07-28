@@ -30,7 +30,5 @@ Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
 \## 🎨 Sample Capture
 
-!\[screenshot](Assets/ExampleCapture.png)
-
-
+!\[screenshot](example.png)
 
