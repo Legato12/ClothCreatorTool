@@ -8,17 +8,23 @@ A Unity editor tool for building and managing layered 2D clothing prefabs with t
 
 \## ✨ Features
 
-\- Editor window with toggleable tools
+\- 🎨 Multi-layered sprite tinting
 
-\- Assign sprite parts to body areas
+\- 🧵 Outfit part snapping and prefab generation
 
-\- Add color channels and update tinting
+\- 🔍 Auto camera framing for screenshots
 
-\- Automatically add sorting layers to control render order
+\- 🛠️ Sorting layer and physics setup
 
-\- One-click prefab export
 
-\- Camera-based capture of outfit thumbnails
+
+\## 🧪 How to Use
+
+1\. Open Unity and go to `Assets/Character-Assets/Prefabs/AnimatedClothes/Character\_ClothCreator.prefab`
+
+2\. This will open the Cloth Creator Editor window
+
+3\. Use the GUI to assign sprites, colors, and export prefabs
 
 
 
