@@ -1,30 +1,50 @@
-\# ClothCreator Tool
+\# 👕 ClothCreator: Custom Unity Toolset
 
 
 
-A Unity editor tool for building and managing layered 2D clothing prefabs with tintable channels and auto-saving. Created for a published mobile game with paper doll-style characters.
+A Unity editor toolset for assembling, tinting, and saving 2D clothing prefabs with layered body parts.
 
 
 
-\## ✨ Features
-
-\- 🎨 Multi-layered sprite tinting
-
-\- 🧵 Outfit part snapping and prefab generation
-
-\- 🔍 Auto camera framing for screenshots
-
-\- 🛠️ Sorting layer and physics setup
+---
 
 
 
-\## 🧪 How to Use
+\## 🛠 Features
 
-1\. Open Unity and go to `Assets/Character-Assets/Prefabs/AnimatedClothes/Character\_ClothCreator.prefab`
+\- Editor GUI for visual prefab editing
 
-2\. This will open the Cloth Creator Editor window
+\- Color tinting system with customizable channels
 
-3\. Use the GUI to assign sprites, colors, and export prefabs
+\- Sprite layering \& sorting (SortingGroup)
+
+\- One-click prefab saving
+
+\- Auto-cropping screenshot capture
+
+\- Drag \& Drop support
+
+
+
+---
+
+
+
+\## 🚀 Integration
+
+1\. Clone or download this repository.
+
+2\. Copy the `Editor` folder into your Unity project.
+
+3\. Open Unity → The ClothCreator tool will appear under \*\*Tools > Cloth Creator\*\*.
+
+
+
+⚠️ Note: This repo contains scripts only (no prefabs). You can create your own prefabs using this tool.
+
+
+
+---
 
 
 
@@ -34,7 +54,11 @@ Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
 
 
-\## 🎨 Sample Capture
+---
+
+
+
+\## 🎨 Preview
 
 !\[Preview of ClothCreator](https://raw.githubusercontent.com/Legato12/ClothCreatorTool/main/Preview.png)
 
