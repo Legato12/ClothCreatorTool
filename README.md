@@ -36,5 +36,5 @@ Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
 \## 🎨 Sample Capture
 
-!\[Preview of ClothCreator](Preview.png)
+!\[Preview of ClothCreator](https://github.com/Legato12/ClothCreatorTool/blob/main/Preview.png)
 
