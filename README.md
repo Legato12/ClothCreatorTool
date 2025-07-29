@@ -60,7 +60,7 @@ Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
 🎨 Preview
 
-!\[Preview](Assets/Art/Preview.png)  
+!\[Screenshot1](Assets/Art/screenshot1.png) 
 
 
 
