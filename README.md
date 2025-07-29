@@ -1,4 +1,4 @@
-\# 👕 ClothCreator: Custom Unity Toolset
+👕 ClothCreator: Custom Unity Toolset
 
 
 
@@ -10,7 +10,7 @@ A Unity editor toolset for assembling, tinting, and saving 2D clothing prefabs w
 
 
 
-\## 🛠 Features
+🛠 Features
 
 \- Editor GUI for visual prefab editing
 
@@ -30,7 +30,7 @@ A Unity editor toolset for assembling, tinting, and saving 2D clothing prefabs w
 
 
 
-\## 🚀 Integration
+🚀 Integration
 
 1\. Clone or download this repository.
 
@@ -48,7 +48,7 @@ A Unity editor toolset for assembling, tinting, and saving 2D clothing prefabs w
 
 
 
-\## 🧠 Technologies
+🧠 Technologies
 
 Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
@@ -58,7 +58,7 @@ Unity 2021+, C#, Editor GUI, SortingGroup, Prefabs, Custom Inspector
 
 
 
-\## 🎨 Preview
+🎨 Preview
 
 !\[Preview of ClothCreator](https://raw.githubusercontent.com/Legato12/ClothCreatorTool/main/Preview.png)
 
